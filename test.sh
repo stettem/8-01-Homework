@@ -1,0 +1,4 @@
+#/bin/bash
+#stroka 1
+#stroka 2
+#stroka 3
